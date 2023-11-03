@@ -2,5 +2,5 @@
 
 int main()
 {
-    // no lines
+    int try = 0;
 }
